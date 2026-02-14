@@ -3,5 +3,6 @@ pandas
 scikit-learn
 numpy
 requests
+rapidfuzz
 fastapi
 uvicorn[standard]
